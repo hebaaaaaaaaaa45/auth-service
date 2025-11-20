@@ -1,5 +1,4 @@
 name: Node Auth CI
-
 on:
   push:
     branches: ["main"]
